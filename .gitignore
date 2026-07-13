@@ -2,10 +2,6 @@
 __pycache__/
 *.py[cod]
 *.egg-info/
-dist/
-build/
-*.egg
-.eggs/
 venv/
 env/
 *.so
@@ -26,5 +22,5 @@ frontend/.vite/
 .DS_Store
 Thumbs.db
 
-# Generated data (not committed)
-sales-demand-forecasting/data/*.csv
+# Generated data
+data/*.csv
